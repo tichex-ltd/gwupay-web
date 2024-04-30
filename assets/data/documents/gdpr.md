@@ -22,14 +22,8 @@ We may collect the following types of information from you:
 
 We receive and store certain types of information automatically, such as whenever you interact with the Sites or use the Services. This information helps us address customer support issues, improve the performance of our Sites and applications, provide you with a streamlined and personalized experience, and protect your Payment User Account from fraud by detecting unauthorized access.
 Information collected automatically includes:
-<ol type="i">
-<li>
-  Online Identifiers: Geo location/tracking details, operating system, browser name and version, and/or personal IP addresses;
-
-<li>
+  * Online Identifiers: Geo location/tracking details, operating system, browser name and version, and/or personal IP addresses;
   Usage Data: Authentication data, security questions, and other data collected via cookies and similar technologies. Please read our Cookie Policy for more information.
-
-</ol>
 
 From time to time, we may obtain information about you from third party sources as required or permitted by applicable law. These sources may include Public Databases, Credit Bureaus &amp; ID Verification Partners. We obtain information about you from public databases and ID verification partners for purposes of verifying your identity in accordance with applicable law. ID verification partners like CREDIT REFORM use a combination of government records and publicly available information about you to verify your identity. Such information may include your name, address, job role, public employment profile, credit history, status on any sanction lists maintained by public authorities, and other relevant data. Credit Reform&#39;s Privacy Policy describes its collection and use of personal data.
 
