@@ -1,4 +1,4 @@
-### **SCHEDULE 1 - Notice on the processing of personal data**
+**SCHEDULE 1 - Notice on the processing of personal data**
 
 Effective for all Users from March 16th, 2020.
 
@@ -33,7 +33,7 @@ Information collected automatically includes:
 
 From time to time, we may obtain information about you from third party sources as required or permitted by applicable law. These sources may include Public Databases, Credit Bureaus &amp; ID Verification Partners. We obtain information about you from public databases and ID verification partners for purposes of verifying your identity in accordance with applicable law. ID verification partners like CREDIT REFORM use a combination of government records and publicly available information about you to verify your identity. Such information may include your name, address, job role, public employment profile, credit history, status on any sanction lists maintained by public authorities, and other relevant data. Credit Reform&#39;s Privacy Policy describes its collection and use of personal data.
 
-### **ARTICLE 2: HOW YOUR PERSONAL INFORMATION IS USED**
+**ARTICLE 2: HOW YOUR PERSONAL INFORMATION IS USED**
 
 Our primary purpose in collecting personal information is to provide you with a secure, efficient, and customized experience. We generally use personal information to create, develop, operate, deliver, and improve our Services, content and advertising and for loss prevention and anti-fraud purposes.
 
@@ -73,7 +73,7 @@ We may provide Services although you do not wish to have your personal informati
 </ol>
 <br><br>
 
-### **ARTICLE 3: WHO ARE THE RECEIPIENT OF YOUR DATA?**
+**ARTICLE 3: WHO ARE THE RECEIPIENT OF YOUR DATA?**
 
 For the purpose of fulfilling its contractual and legal/regulatory obligation, of serving its legal interest as well as in cases where EM@NEY is authorized or has received your consent, recipient of your personal data may be the following:
 <ol type="i">
@@ -135,7 +135,7 @@ For the purpose of fulfilling its contractual and legal/regulatory obligation, o
 </ol>
 <br><br>
 
-### **ARTICLE 4:  HOW WE PROTECT AND STORE PERSONAL INFORMATION - ANONYMIZED DATA AND ENCRYPTION**
+**ARTICLE 4:  HOW WE PROTECT AND STORE PERSONAL INFORMATION - ANONYMIZED DATA AND ENCRYPTION**
 
 Personal data will be processed manually and electronically in compliance with the security measures to exclude or reduce the risk of loss, alteration, prohibited transmission, dissemination, destruction, illegal use or any other form of unlawful processing.
 
@@ -144,7 +144,7 @@ Your data is protected against unauthorized access through encrypted transmissio
 We may perform our own analytics on anonymized data or enable analytics provided by third parties. Types of data we may anonymize include transaction data and fraud indicators.
 
 
-### **ARTICLE 5: YOUR RIGHTS RELATING THE PROTECTION OF YOUR PERSONAL DATA**
+**ARTICLE 5: YOUR RIGHTS RELATING THE PROTECTION OF YOUR PERSONAL DATA**
 
 You may be able to assert certain rights related to your personal information identified below.
 
@@ -160,13 +160,13 @@ You may be able to assert certain rights related to your personal information id
 For the exercise of your rights you may contact the EM@NEY&#39;s DPO by sending an email to [dpo@emoney.plc.com](mailto:dpo@emoney.plc.com).
 <br><br>
 
-### **ARTICLE 6: CROSS BORDER TRANSFER**
+**ARTICLE 6: CROSS BORDER TRANSFER**
 
 Your data will be stored in encrypted form in a data center located in the European Union.
 Your personal data cannot be transferred outside the EU, but they will be included in database shared and managed by EM@NEY subsidiaries.
 <br><br>
 
-### **ARTICLE 7: CONTROLLER DATA PROTECTION OFFICER - PROCESSORS**
+**ARTICLE 7: CONTROLLER DATA PROTECTION OFFICER - PROCESSORS**
 
 The Controller is EM@NEY PLC, with registered and operative Head Offices in Regent House 4/45, Bisazza Street, Sliema SLM1640, Malta.
 Data Protection Officer is Mr. Francesco Maresca. You may contact the Data Protection Officer for any matter regarding the processing of your personal data at the address Regent House 4/45, Bisazza Street, Sliema SLM1640, Malta  or by sending an email to [dpo@emoney.plc.com](mailto:dpo@emoney.plc.com).
