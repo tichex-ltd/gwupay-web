@@ -25,10 +25,10 @@ Information collected automatically includes:
 <ol type="i">
 <li>
   Online Identifiers: Geo location/tracking details, operating system, browser name and version, and/or personal IP addresses;
-</li>
+
 <li>
   Usage Data: Authentication data, security questions, and other data collected via cookies and similar technologies. Please read our Cookie Policy for more information.
-</li>
+
 </ol>
 
 From time to time, we may obtain information about you from third party sources as required or permitted by applicable law. These sources may include Public Databases, Credit Bureaus &amp; ID Verification Partners. We obtain information about you from public databases and ID verification partners for purposes of verifying your identity in accordance with applicable law. ID verification partners like CREDIT REFORM use a combination of government records and publicly available information about you to verify your identity. Such information may include your name, address, job role, public employment profile, credit history, status on any sanction lists maintained by public authorities, and other relevant data. Credit Reform&#39;s Privacy Policy describes its collection and use of personal data.
@@ -38,38 +38,32 @@ From time to time, we may obtain information about you from third party sources 
 Our primary purpose in collecting personal information is to provide you with a secure, efficient, and customized experience. We generally use personal information to create, develop, operate, deliver, and improve our Services, content and advertising and for loss prevention and anti-fraud purposes.
 
 We may use your personal data with the following purpose:
-<ol>
-  <li><strong>To carry out our precontractual obligation upon your request and to provide Services as per the article 6, par. 1 lett. b) GDPR</strong>
+
+  1. __To carry out our precontractual obligation upon your request and to provide Services as per the article 6, par. 1 lett. b) GDPR__
 
 We process your personal information to provide the Services to you.
 
 For example, when you want to store funds on our Sites, we require certain information as your identification, contact information, and payment information. If you do not wish to have your personal information processed for such purposes, we will have to close your Payment User Account.
 
 The period of retention of personal data collected for such purpose will be 10 years as of the termination agreement.
-</li>
-<li><strong>To maintain legal and regulatory compliance check as per the article 6, par. 1 lett. c) GDPR</strong>
 
-We shall identify you in order to comply with our legal obligations such as anti-money laundering laws and terrorist financing law across jurisdictions by monitoring, investigating, preventing any potentially prohibited or illegal activities. This includes collection and storage of your photo identification. In some cases, we process your personal data in order to help detect, prevent, and mitigate fraud and abuse of our Services and to protect you against account compromise or funds loss. The period of retention of personal data collected for such purposes will be 10 years as of the termination agreement.
+  2. __To maintain legal and regulatory compliance check as per the article 6, par. 1 lett. c) GDPR__
+  We shall identify you in order to comply with our legal obligations such as anti-money laundering laws and terrorist financing law across jurisdictions by monitoring, investigating, preventing any potentially prohibited or illegal activities. This includes collection and storage of your photo identification. In some cases, we process your personal data in order to help detect, prevent, and mitigate fraud and abuse of our Services and to protect you against account compromise or funds loss. The period of retention of personal data collected for such purposes will be 10 years as of the termination agreement.
 
-For data collected via technical means such as cookies, webpage counters and other analytics tools, we may automatically receive and record the following information on our server logs:
-<ol type="i">
-  <li>How you came to and use the Services;</li>
-  <li>Device type and unique device identification numbers; </li>
-  <li>Device event information (such as crashes, system activity and hardware settings, browser type, browser language, the date and time of your request and referral URL);</li>
-  <li>How your device interacts with our Sites and Services, including pages accessed and links clicked;</li>
-  <li>Broad geographic location (e.g. country or city-level location);</li>
-  <li>Other technical data collected through cookies, pixel tags and other similar technologies that uniquely identify your browser. The period of retention will be 1 year from expiry of the cookies.</li>
-</ol>
+  For data collected via technical means such as cookies, webpage counters and other analytics tools, we may automatically receive and record the following information on our server logs:
+    * How you came to and use the Services;
+    * Device type and unique device identification numbers;
+    * Device event information (such as crashes, system activity and hardware settings, browser type, browser language, the date and time of your request and referral URL);
+    * How your device interacts with our Sites and Services, including pages accessed and links clicked;
+    * Broad geographic location (e.g. country or city-level location);
+    * Other technical data collected through cookies, pixel tags and other similar technologies that uniquely identify your browser. The period of retention will be 1 year from expiry of the cookies.
 We shall terminate your Payment User Account if you do not wish to have your personal information processed for the above purposes.
-<br>
-<br>
-</li>
-<li><strong>For promotional and marketing purposes as per the article 6 par. 1 lett. a) GDPR</strong>
 
-Based on your communication preferences, we may send you marketing communications (e.g. e-mails or mobile notifications) to inform you about our events; to deliver targeted marketing; and to provide you with promotional offers. Our marketing will be conducted in accordance with your advertising marketing preferences and as permitted by applicable law. The period of retention of those data collected for such purposes will be 1 year as of the termination agreement.
+  3. __For promotional and marketing purposes as per the article 6 par. 1 lett. a) GDPR__
+  Based on your communication preferences, we may send you marketing communications (e.g. e-mails or mobile notifications) to inform you about our events; to deliver targeted marketing; and to provide you with promotional offers. Our marketing will be conducted in accordance with your advertising marketing preferences and as permitted by applicable law. The period of retention of those data collected for such purposes will be 1 year as of the termination agreement.
 
-We may provide Services although you do not wish to have your personal information processed for such purposes.
-</li>
+  We may provide Services although you do not wish to have your personal information processed for such purposes.
+
 </ol>
 <br><br>
 
@@ -79,59 +73,59 @@ For the purpose of fulfilling its contractual and legal/regulatory obligation, o
 <ol type="i">
   <li>
     The EM@NEY&#39;s employees to fulfill their job responsibilities in relation of the evaluation of your request, the management and performance of the User Agreement with EM@NEY, the fulfilment of the obligation arising from it, as well as the relevant obligation imposed by law.
-  </li>
+
   <li>
     Entity to which EM@NEY delegates the performance of specific task on its behalf (Processor) which may indicatively be professional advisors who provide banking, legal, compliance, insurance, accounting, introducers, brokers, or other consulting services in order to complete third party financial, technical, compliance and legal audits of our operations or otherwise comply with our legal obligations.
-  </li>
+
   <li>
     The service providers under contract who help with parts of our business operations. Examples of the types of service providers we may share personal information with include:
     <ol>
-      <li>Network infrastructure;</li>
-      <li>Payment processing;</li>
+      <li>Network infrastructure;
+      <li>Payment processing;
       <li>
         Transaction monitoring;
-      </li>
+
       <li>
         Security;
-      </li>
+
       <li>
       Document repository services;
-      </li>
+
       <li>
       Customer support;
-      </li>
+
       <li>
       Internet (e.g. ISPs);
-      </li>
+
       <li>
       Data analytics;
-      </li>
+
       <li>
       Information Technology;
-      </li>
+
       <li>
       Marketing.
-      </li>
+
     </ol>
-  </li>
+
   <li>
     The third party identity verification services in order to prevent fraud and anti-money laundering. This allows EM@NEY to confirm your identity by comparing the information you provide us to public records and other third-party databases. These service providers may create derivative data based on your personal information that can be used solely in connection with the provision of identity verification and fraud prevention services.
-  </li>
+
   <li>
     The credit institution, payment service provider and/or entities that are involved in the execution of contract with you or the execution of requested or activated transaction.
-  </li>
+
   <li>
     The  law enforcement, officials, or other third parties when we are compelled to do so by a subpoena, court order, or similar legal procedure, or when we believe in good faith that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of the User Agreement or any other applicable policies.
-  </li>
+
   <li>
     The company or other entities that we plan to merge with or be acquired by. We may process any information regarding your Payment User Account and use of our Services as is necessary in the context of corporate acquisitions, mergers, or other corporate transactions.
-  </li>
+
   <li>
     The Merchants, if you use your Payment User Account to conduct a transaction with a Merchant. In that case the Merchant may provide data about you and your transaction to us.  Please review the privacy notice of Merchant that will gain access to your personal information.
-  </li>
+
   <li>
     The companies or other entities that purchase EM@NEY assets pursuant to a court approved sale or where we are required to share your information pursuant to insolvency law in any applicable jurisdiction.
-  </li>
+
 </ol>
 <br><br>
 
