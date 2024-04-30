@@ -33,12 +33,14 @@ Our primary purpose in collecting personal information is to provide you with a 
 
 We may use your personal data with the following purpose:
 
-  1. To carry out our precontractual obligation upon your request and to provide Services as per the article 6, par. 1 lett. b) GDPR
+  1. __To carry out our precontractual obligation upon your request and to provide Services as per the article 6, par. 1 lett. b) GDPR__
+
   We process your personal information to provide the Services to you.
   For example, when you want to store funds on our Sites, we require certain information as your identification, contact information, and payment information. If you do not wish to have your personal information processed for such purposes, we will have to close your Payment User Account.
   The period of retention of personal data collected for such purpose will be 10 years as of the termination agreement.
 
   2. __To maintain legal and regulatory compliance check as per the article 6, par. 1 lett. c) GDPR__
+
   We shall identify you in order to comply with our legal obligations such as anti-money laundering laws and terrorist financing law across jurisdictions by monitoring, investigating, preventing any potentially prohibited or illegal activities. This includes collection and storage of your photo identification. In some cases, we process your personal data in order to help detect, prevent, and mitigate fraud and abuse of our Services and to protect you against account compromise or funds loss. The period of retention of personal data collected for such purposes will be 10 years as of the termination agreement.
 
   For data collected via technical means such as cookies, webpage counters and other analytics tools, we may automatically receive and record the following information on our server logs:
@@ -51,74 +53,39 @@ We may use your personal data with the following purpose:
 We shall terminate your Payment User Account if you do not wish to have your personal information processed for the above purposes.
 
   3. __For promotional and marketing purposes as per the article 6 par. 1 lett. a) GDPR__
+
   Based on your communication preferences, we may send you marketing communications (e.g. e-mails or mobile notifications) to inform you about our events; to deliver targeted marketing; and to provide you with promotional offers. Our marketing will be conducted in accordance with your advertising marketing preferences and as permitted by applicable law. The period of retention of those data collected for such purposes will be 1 year as of the termination agreement.
 
   We may provide Services although you do not wish to have your personal information processed for such purposes.
 
-</ol>
-<br><br>
-
 **ARTICLE 3: WHO ARE THE RECEIPIENT OF YOUR DATA?**
 
 For the purpose of fulfilling its contractual and legal/regulatory obligation, of serving its legal interest as well as in cases where EM@NEY is authorized or has received your consent, recipient of your personal data may be the following:
-<ol type="i">
-  <li>
-    The EM@NEY&#39;s employees to fulfill their job responsibilities in relation of the evaluation of your request, the management and performance of the User Agreement with EM@NEY, the fulfilment of the obligation arising from it, as well as the relevant obligation imposed by law.
+  * The EM@NEY&#39;s employees to fulfill their job responsibilities in relation of the evaluation of your request, the management and performance of the User Agreement with EM@NEY, the fulfilment of the obligation arising from it, as well as the relevant obligation imposed by law.
+  * Entity to which EM@NEY delegates the performance of specific task on its behalf (Processor) which may indicatively be professional advisors who provide banking, legal, compliance, insurance, accounting, introducers, brokers, or other consulting services in order to complete third party financial, technical, compliance and legal audits of our operations or otherwise comply with our legal obligations.
+  * The service providers under contract who help with parts of our business operations. Examples of the types of service providers we may share personal information with include:
+    - Network infrastructure;
+    - Payment processing;
+    - Transaction monitoring;
+    - Security;
+    - Document repository services;
+    - Customer support;
+    - Internet (e.g. ISPs);
+    - Data analytics;
+    - Information Technology;
+    - Marketing.
 
-  <li>
-    Entity to which EM@NEY delegates the performance of specific task on its behalf (Processor) which may indicatively be professional advisors who provide banking, legal, compliance, insurance, accounting, introducers, brokers, or other consulting services in order to complete third party financial, technical, compliance and legal audits of our operations or otherwise comply with our legal obligations.
+  * The third party identity verification services in order to prevent fraud and anti-money laundering. This allows EM@NEY to confirm your identity by comparing the information you provide us to public records and other third-party databases. These service providers may create derivative data based on your personal information that can be used solely in connection with the provision of identity verification and fraud prevention services.
 
-  <li>
-    The service providers under contract who help with parts of our business operations. Examples of the types of service providers we may share personal information with include:
-    <ol>
-      <li>Network infrastructure;
-      <li>Payment processing;
-      <li>
-        Transaction monitoring;
+  * The credit institution, payment service provider and/or entities that are involved in the execution of contract with you or the execution of requested or activated transaction.
 
-      <li>
-        Security;
+ * The  law enforcement, officials, or other third parties when we are compelled to do so by a subpoena, court order, or similar legal procedure, or when we believe in good faith that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of the User Agreement or any other applicable policies.
 
-      <li>
-      Document repository services;
+  * The company or other entities that we plan to merge with or be acquired by. We may process any information regarding your Payment User Account and use of our Services as is necessary in the context of corporate acquisitions, mergers, or other corporate transactions.
 
-      <li>
-      Customer support;
+  * The Merchants, if you use your Payment User Account to conduct a transaction with a Merchant. In that case the Merchant may provide data about you and your transaction to us.  Please review the privacy notice of Merchant that will gain access to your personal information.
 
-      <li>
-      Internet (e.g. ISPs);
-
-      <li>
-      Data analytics;
-
-      <li>
-      Information Technology;
-
-      <li>
-      Marketing.
-
-    </ol>
-
-  <li>
-    The third party identity verification services in order to prevent fraud and anti-money laundering. This allows EM@NEY to confirm your identity by comparing the information you provide us to public records and other third-party databases. These service providers may create derivative data based on your personal information that can be used solely in connection with the provision of identity verification and fraud prevention services.
-
-  <li>
-    The credit institution, payment service provider and/or entities that are involved in the execution of contract with you or the execution of requested or activated transaction.
-
-  <li>
-    The  law enforcement, officials, or other third parties when we are compelled to do so by a subpoena, court order, or similar legal procedure, or when we believe in good faith that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of the User Agreement or any other applicable policies.
-
-  <li>
-    The company or other entities that we plan to merge with or be acquired by. We may process any information regarding your Payment User Account and use of our Services as is necessary in the context of corporate acquisitions, mergers, or other corporate transactions.
-
-  <li>
-    The Merchants, if you use your Payment User Account to conduct a transaction with a Merchant. In that case the Merchant may provide data about you and your transaction to us.  Please review the privacy notice of Merchant that will gain access to your personal information.
-
-  <li>
-    The companies or other entities that purchase EM@NEY assets pursuant to a court approved sale or where we are required to share your information pursuant to insolvency law in any applicable jurisdiction.
-
-</ol>
-<br><br>
+  * The companies or other entities that purchase EM@NEY assets pursuant to a court approved sale or where we are required to share your information pursuant to insolvency law in any applicable jurisdiction.
 
 **ARTICLE 4:  HOW WE PROTECT AND STORE PERSONAL INFORMATION - ANONYMIZED DATA AND ENCRYPTION**
 
@@ -149,7 +116,6 @@ For the exercise of your rights you may contact the EM@NEY&#39;s DPO by sending 
 
 Your data will be stored in encrypted form in a data center located in the European Union.
 Your personal data cannot be transferred outside the EU, but they will be included in database shared and managed by EM@NEY subsidiaries.
-<br><br>
 
 **ARTICLE 7: CONTROLLER DATA PROTECTION OFFICER - PROCESSORS**
 
