@@ -259,7 +259,7 @@ This Agreement contains the terms for the provision of Services as described her
 
 **7.1** For the duration and strictly for the purpose of this Agreement, EM@NEY grant the User a non-exclusive, worldwide, royalty free, non-transferable license to use a software that allows the use of the Services via internet and mobile phone.
 
-**7.2** Except as expressly stated above, this Agreement does not grant or transfer nor be deemed to grant or transfer to the User any right, title, interest in any logos, trademarks, tradename or other intellectual properties licensed to that party by EM@NEY.  All Intellectual Property Right in the GWUPay APP shall remain the property of EM@NEY and nothing in this Agreement shall transfer ownership of any such right to the User.
+**7.2** Except as expressly stated above, this Agreement does not grant or transfer nor be deemed to grant or transfer to the User any right, title, interest in any logos, trademarks, tradename or other intellectual properties licensed to that party by EM@NEY.  All Intellectual Property Right in the GWUPay APP shall remain the property of EM@NEY or their respective owners and nothing in this Agreement shall transfer ownership of any such right to the User.
 
 **7.4** User acknowledge that it is prohibited from any use, reproduction, reverse engineering, modification or distribution of any proprietary information that is not expressly authorized in this Agreement.
 
