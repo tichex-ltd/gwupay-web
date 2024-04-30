@@ -33,13 +33,10 @@ Our primary purpose in collecting personal information is to provide you with a 
 
 We may use your personal data with the following purpose:
 
-  1. __To carry out our precontractual obligation upon your request and to provide Services as per the article 6, par. 1 lett. b) GDPR__
-
-We process your personal information to provide the Services to you.
-
-For example, when you want to store funds on our Sites, we require certain information as your identification, contact information, and payment information. If you do not wish to have your personal information processed for such purposes, we will have to close your Payment User Account.
-
-The period of retention of personal data collected for such purpose will be 10 years as of the termination agreement.
+  1. To carry out our precontractual obligation upon your request and to provide Services as per the article 6, par. 1 lett. b) GDPR
+  We process your personal information to provide the Services to you.
+  For example, when you want to store funds on our Sites, we require certain information as your identification, contact information, and payment information. If you do not wish to have your personal information processed for such purposes, we will have to close your Payment User Account.
+  The period of retention of personal data collected for such purpose will be 10 years as of the termination agreement.
 
   2. __To maintain legal and regulatory compliance check as per the article 6, par. 1 lett. c) GDPR__
   We shall identify you in order to comply with our legal obligations such as anti-money laundering laws and terrorist financing law across jurisdictions by monitoring, investigating, preventing any potentially prohibited or illegal activities. This includes collection and storage of your photo identification. In some cases, we process your personal data in order to help detect, prevent, and mitigate fraud and abuse of our Services and to protect you against account compromise or funds loss. The period of retention of personal data collected for such purposes will be 10 years as of the termination agreement.
