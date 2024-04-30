@@ -44,13 +44,14 @@ We may use your personal data with the following purpose:
   We shall identify you in order to comply with our legal obligations such as anti-money laundering laws and terrorist financing law across jurisdictions by monitoring, investigating, preventing any potentially prohibited or illegal activities. This includes collection and storage of your photo identification. In some cases, we process your personal data in order to help detect, prevent, and mitigate fraud and abuse of our Services and to protect you against account compromise or funds loss. The period of retention of personal data collected for such purposes will be 10 years as of the termination agreement.
 
   For data collected via technical means such as cookies, webpage counters and other analytics tools, we may automatically receive and record the following information on our server logs:
-    * How you came to and use the Services;
-    * Device type and unique device identification numbers;
-    * Device event information (such as crashes, system activity and hardware settings, browser type, browser language, the date and time of your request and referral URL);
-    * How your device interacts with our Sites and Services, including pages accessed and links clicked;
-    * Broad geographic location (e.g. country or city-level location);
-    * Other technical data collected through cookies, pixel tags and other similar technologies that uniquely identify your browser. The period of retention will be 1 year from expiry of the cookies.
-We shall terminate your Payment User Account if you do not wish to have your personal information processed for the above purposes.
+  * How you came to and use the Services;
+  * Device type and unique device identification numbers;
+  * Device event information (such as crashes, system activity and hardware settings, browser type, browser language, the date and time of your request and referral URL);
+  * How your device interacts with our Sites and Services, including pages accessed and links clicked;
+  * Broad geographic location (e.g. country or city-level location);
+  * Other technical data collected through cookies, pixel tags and other similar technologies that uniquely identify your browser. The period of retention will be 1 year from expiry of the cookies.
+
+  We shall terminate your Payment User Account if you do not wish to have your personal information processed for the above purposes.
 
   3. __For promotional and marketing purposes as per the article 6 par. 1 lett. a) GDPR__
 
@@ -110,7 +111,6 @@ You may be able to assert certain rights related to your personal information id
 -  **Right to propose a complaint to the supervisory authority**: If you believe that we have infringed your rights, we encourage you to first submit a request to Data Protection Authority, Level 2, Airways House, High Street Sliema SLM 1549 Malta.
 
 For the exercise of your rights you may contact the EM@NEY&#39;s DPO by sending an email to [dpo@emoney.plc.com](mailto:dpo@emoney.plc.com).
-<br><br>
 
 **ARTICLE 6: CROSS BORDER TRANSFER**
 
